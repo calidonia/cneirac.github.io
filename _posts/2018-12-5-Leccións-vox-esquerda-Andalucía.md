@@ -15,7 +15,7 @@ Nesta ocasión, ademais, a variación na abstención/participación tivo un comp
 
 Nos cartogramas seguintes (mapas distorionados para tentar representar sobre o plano da forma máis proporcional posible o peso electoral de cada sección censual) pódese verificar a) en termos estáticos ou transversais a maior abstención rexistrada en zonas rurais (fóra dos globos máis claros que representan as cidades) e b) en termos dinámicos que os maiores crecementos da abstención a respecto de 2015 se rexistran tamén na Andalucía rural.
 
-![_config.yml]({{ site.baseurl }} /images/Abstención, PA 2018, cartograma seccións censuais.png)
+![_config.yml]({{ site.baseurl }}/images/Abstención, PA 2018, cartograma seccións censuais.png)
 
-![_config.yml]({{ site.baseurl }} /images/Var Abstención, PA 2018, cartograma seccións censuais.png)
+![_config.yml]({{ site.baseurl }}/images/Var Abstención, PA 2018, cartograma seccións censuais.png)
 
