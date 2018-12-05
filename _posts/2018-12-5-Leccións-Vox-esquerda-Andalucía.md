@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Leccións sobre Voz e a esquerda desde Andalucía
+title: Leccións sobre Vox e a esquerda desde Andalucía
 ---
 
 
-Os comentarios que vou realizar neste artigo están baseados na análise dos resultados electorais do pasado domingo en Andalucía. Os datos proveñen do reconto provisional publicado pola Junta paraas sección censuais andaluzas e os resultados de cada opción de voto (forzas políticas, abstención, brancos e nulos) foron comparados cos obtidos nas anteriores eleccións autonómicas de 2015. Tan só caeron fóra da análise das 5974 seccións recontadas aquelas que ou ben desapareceron ou ben apareceron (unhas 121 en total). A efectos simplificadores non se ten en conta a variación do censo de cada sección, e se traballou con datos relativos (porcentuais ou en tanto por un) calculados sobre a totalidade do censo.
+Os comentarios que vou realizar neste artigo están baseados na análise dos resultados electorais do pasado domingo en Andalucía. Os datos proveñen do reconto provisional publicado pola Junta paraas sección censuais andaluzas e os resultados de cada opción de voto (forzas políticas, abstención, brancos e nulos) foron comparados cos obtidos nas anteriores eleccións autonómicas de 2015. Tan só caeron fóra da análise das 5.974 seccións recontadas aquelas que ou ben desapareceron ou ben apareceron (unhas 121 en total). A efectos simplificadores non tiven en conta a variación do censo de cada sección, e traballei só con datos relativos (porcentuais ou en tanto por un) calculados sobre a totalidade do censo.
+
+Folga dicir que unha análise a este nivel de desagregación territorial, con case 6.000 unidades de investigación, fornece unha forza analítica moito máis significativos que traballando a nivel autonómico (1), provincial (8) ou municipal (778), e todas as conclusións se aproximarán tendencialmente moito máis ao comportamento do censo electoral (6.300.000), permitíndonos evitar os problemas da falacia ecolóxica asociada ao tratamento de datos agregados.
 
 ## Abstención diferencial ##
 
@@ -23,5 +25,8 @@ Cómpre lembrar que as anteriores autonómicas se celebraron coincidindo coas mu
 
 O dato máis fascinante en relación coa abstención constitúeo o feito de que as cidades participaran máis que o rural, cando o normal é que aconteza o contrario. É aí onde se producen os maiores cambios.
 
-## A debacle de Díaz (e de Sánchez?) ##
+## O nivel e a variación do voto en relación a 2015 ##
 
+
+
+## A voto á vista das características demográficas, sociais e económicas ##
