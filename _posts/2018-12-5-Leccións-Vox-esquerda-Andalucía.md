@@ -10,13 +10,13 @@ Folga dicir que unha análise a este nivel de desagregación territorial, con ca
 
 ## Abstención diferencial ##
 
-O primeiro foco debemos poñelo sobre a abstención. Case sempre debemos facelo porque xeralmente e cada vez máis desde que o sistema político está máis fragmentado, a abstención e a principal opción de voto da cidadanía.
+O primeiro foco debemos poñelo sobre a abstención. Case sempre debemos facelo, porque xeralmente, e cada vez máis desde que o sistema político está máis fragmentado, a abstención é a principal opción de voto da cidadanía.
 
-Mais neste caso debemos facelo con atención porque a caída na participación foi especialmente intensa, e temos que fixarnos dobremente porque a mobilización electoral foi diferente á esquerda e á dereita do espectro político, o que provocou enormes variacións no voto aos bloques ideolóxicos e ás forzas políticas.
+A caída na participación foi especialmente intensa, como adiantaron os avances feitos durante a xornada electoral, mais neste caso debemos fixarnos dobremente porque a mobilización electoral foi diferente á esquerda e á dereita do espectro político, o que provocou enormes variacións no voto aos bloques ideolóxicos e ás forzas políticas.
 
-Nesta ocasión, ademais, a variación na abstención/participación tivo un compartamento dúas veces diferencial, por canto se verifica que existiu un cambio moi diferente segundo falemos das zonas urbanas ou das rurais.
+Nesta ocasión a variación na abstención/participación tivo un compartamento diferencial tamén en parámetros xeográficos, por canto se verifica que existiu un cambio moi diferente segundo falemos das zonas urbanas ou das rurais, ou do litoral e do interior de Andalucía.
 
-Nos cartogramas seguintes (mapas distorionados para tentar representar sobre o plano da forma máis proporcional posible o peso electoral de cada sección censual) pódese verificar a) en termos estáticos ou transversais a maior abstención rexistrada en zonas rurais (fóra dos globos máis claros que representan as cidades) e b) en termos dinámicos que os maiores crecementos da abstención a respecto de 2015 se rexistran tamén na Andalucía rural.
+Nos cartogramas seguintes (mapas distorionados para tentar representar sobre o plano da forma máis proporcional posible o peso electoral de cada sección censual) pódese verificar a) en termos estáticos ou transversais a maior abstención rexistrada nas zonas rurais (fóra dos globos máis claros que representan as cidades) e b) en termos dinámicos que os maiores crecementos da abstención a respecto de 2015 se rexistran tamén na Andalucía rural.
 
 ![_config.yml]({{ site.baseurl }}/images/Abstención, PA 2018, cartograma seccións censuais.png)
 ![_config.yml]({{ site.baseurl }}/images/Var Abstención, PA 2018, cartograma seccións censuais.png)
@@ -35,23 +35,23 @@ O voto nulo replicouse en boa medida nos mesmos lugares, pero en particular rex�
 
 ![_config.yml]({{ site.baseurl }}/images/PSOE, PA 2018, cartograma seccións censuais.png)
 
-O voto do PSOE en 2018 replicou os patróns xeográficos do 2015, pero foi máis baixo naqueles lugares que máis votaran a Ciudadanos hai 3 anos. Salienta o retroceso en lugares onde xa houbera máis abstención e máis voto ao PP, que podemos identificar coas áreas con maior peso dos votantes tradicionalmente bipartidistas ou de centro.
+O voto do PSOE en 2018 replicou os patróns xeográficos do 2015. Pero foi máis baixo naqueles lugares que máis votaran a Ciudadanos hai 3 anos, e tamén salienta o retroceso alí onde xa houbera máis abstención e máis voto ao PP. Podemos identificar estas zonas coas áreas con maior peso dos votantes tradicionalmente bipartidistas ou de centro das zonas rurais.
 
 ![_config.yml]({{ site.baseurl }}/images/PP, PA 2018, cartograma seccións censuais.png)
 
-Como o PSOE, o PP tamén caeu polo tanto nas áreas onde maior abstención houbera xa en 2015 e, curiosamente, naquelas onde Adelante Andalucía (en rigor, a suma de Podemos e IU por separado) tiveran mellores resultados. Neste caso falaríamos máis de zonas urbanas, poboación nova.
+Como o PSOE, o PP ten peores resultados nas áreas onde maior abstención houbera en 2015 e, curiosamente, naquelas onde Adelante Andalucía (en rigor, a suma de Podemos e IU por separado) tiveran mellores resultados. Neste caso falamos máis de zonas urbanas e en particular máis dos centros urbanos que dos barrios periféricos.
 
 ![_config.yml]({{ site.baseurl }}/images/C's, PA 2018, cartograma seccións censuais.png)
 
-Ciudadanos aumentou nas zonas que tiveran máis voto ao PP, menos voto ao PSOE e menos abtención.
+Ciudadanos colleitou mellores resultados nas zonas que tiveran máis voto ao PP, menos voto ao PSOE e menos abstención en 2015. Zonas urbanas, novamente.
 
 ![_config.yml]({{ site.baseurl }}/images/AA, PA 2018, cartograma seccións censuais.png)
 
-Adelante Andalucía repetiu basicamente o patrón xeográfico de voto do 2015.
+Adelante Andalucía repetiu basicamente o patrón xeográfico de voto do 2015. Voto urbano de barrios periféricos, con resultados adicionalmente bos na bahía de Cádiz e en varias poboacións rurais do interior que foron referencia en movementos comunitarios, e resultados particularmente malos en Almería ou nas zonas máis ricas do occidente malacitano.
 
 ![_config.yml]({{ site.baseurl }}/images/Vox, PA 2018, cartograma seccións censuais.png)
 
-Vox pola súa banda se multiplicou en zonas con baixo voto socialista en 2015 e moito voto tanto ao PP como a Ciudadanos.
+Vox pola súa banda se multiplicou en zonas con baixo voto socialista en 2015 e moito voto tanto ao PP como a Ciudadanos. Centos urbanos (con especial incidencia en Sevilla, Córdoba), zonas brancas de invernadoiros do Mediterráneo oriental e algúns barrios hispalenses pobres.
 
 ## O cambio de voto a respecto de 2015 ##
 
@@ -69,17 +69,17 @@ A abstención varíou en sentido contrario a como cambiou o resultado do PSOE, s
 
 ![_config.yml]({{ site.baseurl }}/images/Var PP, PA 2018, cartograma seccións censuais.png)
 
-As caídas do PSOE danse en zonas onde aumentou o PP. Isto indica que o PP foi obxecto dun dobre transvasamento. Por un lado cedeu votos a Vox e por outro lado recibiu voto socialista. A primeira impresión é que estes movementos non se produciron precisamente nas mesmas zonas, senón que o voto ultra se rexistrou nas zonas urbanas e o voto de centro se moveu máis no rural. O correlato con perfís demográficos e socioeconómicos diferentes (idade, estudos, renda) é inmediato.
+O PP foi obxecto dun dobre transvasamento. Por un lado cedeu votos a Vox e por outro lado recibiu voto socialista. A primeira impresión é que estes movementos non se produciron precisamente nas mesmas zonas, senón que o voto ultra se rexistrou nas zonas urbanas e o voto de centro se moveu máis no rural. O correlato con perfís demográficos e socioeconómicos diferentes (idade, estudos, renda) é inmediato.
 
-Ademais, verifícase unha correlación positiva entre o voto a PSOE e a Vox. Dado que Vox só medrou isto indicaría que o voto ao PSOE se mobilizou frente á ameaza ultra en determinadas zonas (urbanas). Asistimos así a confirmación dun fenómeno que, correctamente rexistrados polos trackings electorais da última semana de campaña, explicaría a utilización da mensaxe antifascista utilizada por Susana Díaz, que lle tería rendido algúns froitos en determinadas zonas urbanas.
+Ademais, verifícase unha correlación positiva entre o voto a PSOE e a Vox. Dado que Vox só medrou isto indicaría que o voto ao PSOE se mobilizou fronte á ameaza ultra en determinadas zonas (urbanas). Asistimos así a confirmación dun fenómeno que, correctamente rexistrados polos trackings electorais da última semana de campaña, explicaría a utilización da estratexia do medo por Susana Díaz, que lle tería rendido algúns froitos en determinadas zonas urbanas.
 
 ![_config.yml]({{ site.baseurl }}/images/Var C's, PA 2018, cartograma seccións censuais.png)
 
-A variación (crecemento xeral) de Vox está moi uniformemente repartida por toda Andalucía. Tan só se aprecian menores crecementos (en relación ao total censual, o que equivale a crecementos en porcentaxe de voto a candidaturas por mor do aumento da abstención) en algunhas cidades.
+A variación (crecemento xeral) de Ciudadanos está moi uniformemente repartida por toda Andalucía. Tan só se aprecian menores crecementos (en relación ao total censual, o que equivale a crecementos en porcentaxe de voto a candidaturas por mor do aumento da abstención) en algunhas cidades.
 
 ![_config.yml]({{ site.baseurl }}/images/Var AA, PA 2018, cartograma seccións censuais.png)
 
-O retroceso de Adelante Andalucía tamén é moi homoxéneo, tanto en zonas urbanas como rurais, salvándose unicamente algúns centros urbanos.
+O retroceso de Adelante Andalucía tamén é moi homoxéneo, tanto en zonas urbanas como rurais.
 
 ## A voto á vista das características demográficas, sociais e económicas ##
 
