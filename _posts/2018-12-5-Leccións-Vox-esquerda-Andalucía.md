@@ -105,4 +105,4 @@ O retroceso de Adelante Andalucía tamén é moi homoxéneo, tanto en zonas urba
 
 Outras relacións igualmente significativas aínda que de menor magnitude se poden extraer destas táboas de correlacións, como por exemplo o crecemento de VOx en zonas con maior presenza de poboación estranxeira e de orixe africana, o voto de castigo que optou por Vox nas zonas máis afectadas pola polémica do Supremo e as hipotecas, a caída do PSOE nas zonas con menor densidade de poboación ou o envellecemento do electorado de Adelante Andalucía.
 
-Outras relación entre variables sociodemográficas, o voto e o cambio de voto poden consultase no [especial de eldiario.es](https://www.eldiario.es/andalucia/demografia-grupo-social-elecciones-andaluzas_0_838866277.html).
+Máis correlación entre variables sociodemográficas, o voto e o cambio de voto con información a nivel municipal poden consultase no [especial de eldiario.es](https://www.eldiario.es/andalucia/demografia-grupo-social-elecciones-andaluzas_0_838866277.html).
