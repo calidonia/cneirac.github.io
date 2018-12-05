@@ -35,11 +35,11 @@ O voto nulo replicouse en boa medida nos mesmos lugares, pero en particular rex�
 
 ![_config.yml]({{ site.baseurl }}/images/PSOE, PA 2018, cartograma seccións censuais.png)
 
-O voto do PSOE en 2018 replicou os patróns xeográficos do 2015, pero foi máis baixao naqueles lugares que máis votaran a Ciudadanos hai 3 anos. Non é descartable tampouco o retroceso en lugares onde xa houbera máis abstención e máis voto ao PP, que podemos identificar coas con maior peso de votantes tradicionalmente bipartidistas: zonas rurais con persoas de maior idade.
+O voto do PSOE en 2018 replicou os patróns xeográficos do 2015, pero foi máis baixo naqueles lugares que máis votaran a Ciudadanos hai 3 anos. Salienta o retroceso en lugares onde xa houbera máis abstención e máis voto ao PP, que podemos identificar coas áreas con maior peso dos votantes tradicionalmente bipartidistas ou de centro.
 
 ![_config.yml]({{ site.baseurl }}/images/PP, PA 2018, cartograma seccións censuais.png)
 
-Como o PSOE o PP tamén caeu polo tanto nas áreas onde maior abstención houbera xa en 2015 e, curiosamente, naquelas onde Adelante Andalucía (en rigor, a suma de Podemos e IU por separado) tiveran mellores resultados. Neste caso falaríamos máis de zonas urbanas, poboación nova.
+Como o PSOE, o PP tamén caeu polo tanto nas áreas onde maior abstención houbera xa en 2015 e, curiosamente, naquelas onde Adelante Andalucía (en rigor, a suma de Podemos e IU por separado) tiveran mellores resultados. Neste caso falaríamos máis de zonas urbanas, poboación nova.
 
 ![_config.yml]({{ site.baseurl }}/images/C's, PA 2018, cartograma seccións censuais.png)
 
