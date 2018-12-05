@@ -97,4 +97,12 @@ O retroceso de Adelante Andalucía tamén é moi homoxéneo, tanto en zonas urba
 
 - En canto ás variación no voto a respecto de 2015:
 
--- 
+-- Se ben o voto ás tres forzasda dereitas se concentra en concellos con maior proporción de persoas con titulación universitaria, o cambio sufrido nestas eleccións supón que as persoas con maior formación académica foxen do PP para recalar en Vox.
+
+-- As caídas do PSOE coinciden tamén coas seccións censuais que contan con máis poboación con só estudos primarios (e viceversa, os escasos aumentos obtenos en barrios urbanos con ata presenza de persoas con titulación universitaria).
+
+-- Os maiores aumentos da abstención danse en áreas con escasa presenza de persoas con estudos terciarios.
+
+Outras relacións igualmente significativas aínda que de menor magnitude se poden extraer destas táboas de correlacións, como por exemplo o crecemento de VOx en zonas con maior presenza de poboación estranxeira e de orixe africana, o voto de castigo que optou por Vox nas zonas máis afectadas pola polémica do Supremo e as hipotecas, a caída do PSOE nas zonas con menor densidade de poboación ou o envellecemento do electorado de Adelante Andalucía.
+
+Outras relación entre variables sociodemográficas, o voto e o cambio de voto poden consultase no [especial de eldiario.es](https://www.eldiario.es/andalucia/demografia-grupo-social-elecciones-andaluzas_0_838866277.html).
