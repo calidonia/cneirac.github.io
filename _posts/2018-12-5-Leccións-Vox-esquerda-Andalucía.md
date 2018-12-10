@@ -73,7 +73,7 @@ A abstención variou en sentido contrario ao resultado do PSOE, significando un 
 
 ![_config.yml]({{ site.baseurl }}/images/Var PP, PA 2018, cartograma seccións censuais.png)
 
-O PP foi obxecto dun dobre transvasamento. Por un lado cedeu votos a Vox e por outro lado tería recibido voto socialista. A primeira impresión é que estes movementos non se produciron nas mesmas zonas e segmentos da poboación, senón que o novo voto ultra se rexistrou nas zonas urbanas e o novo voto de centro se moveu máis no rural. O correlato con perfís demográficos e socioeconómicos diferentes (idade, estudos, renda) é inmediato.
+O PP foi obxecto dun dobre transvasamento. Por un lado cedeu votos a Vox e por outro lado tería recibido voto socialista. A primeira impresión é que estes movementos non se produciron nas mesmas zonas e segmentos da poboación, senón que o novo voto ultra se rexistrou nas zonas urbanas e o novo voto de centro (ou de castigo ao partido gobernante) se moveu máis no rural. O correlato con perfís demográficos e socioeconómicos diferentes (idade, estudos, renda) é inmediato.
 
 Ademais, verifícase unha correlación positiva entre o voto a PSOE e a Vox. Dado que Vox só medrou isto indicaría que o voto ao PSOE se mobilizou fronte á ameaza ultra en determinadas zonas (urbanas). Asistimos así á confirmación de por que, unha vez rexistrado o crcemento de Vox polos trackings electorais da última semana de campaña, Susana Díaz utilizou a estratexia do medo para tentar mobilizar ao electorado, o cal lle tería rendido algúns anque limitados froitos.
 
@@ -87,26 +87,26 @@ O retroceso de Adelante Andalucía tamén é moi homoxéneo, tanto en zonas urba
 
 ## A voto á vista das características demográficas, sociais e económicas ##
 
-É escasa (moito) a información estatística oficial existente ao nivel das seccións censuais. Porén, podemos concluír grazas aos datos existentes as segunte correlacións:
+É (moi) escasa a información estatística oficial existente ao nivel das seccións censuais. Porén, grazas aos datos existentes podemos concluír as seguinte correlacións:
 
 ![_config.yml]({{ site.baseurl }}/images/Corr3.png)
 
 - En canto ao nivel de voto en 2018:
 
--- O voto á dereita é maior nas zonas con maior porcentaxe de persoas con estudos universitarios e menor porcentaxe de persoas con estudos primarios. Isto é claramente así no caso de Vox e Ciudadanos, e tamén, aínda que con menor intensidade, no caso do Partido Popular, cuxo resultado aparece influenciado tamén pola idade, recollendo mellores resultados entre a poboación máis vella.
+-- O voto á dereita é maior nas zonas con maior porcentaxe de persoas con estudos universitarios e menor porcentaxe de persoas con estudos primarios. Isto é claramente así no caso de Vox e Ciudadanos, e tamén, aínda que con menor intensidade, no caso do Partido Popular, cuxo resultado aparece influenciado tamén pola idade, recollendo mellores resultados entre a poboación máis vella. É difícil fuxir á imaxe mental dos señoritos andaluces (novos e vellos) a teor deste resultado e da forte compoñente de xénero masculino que ten o novo voto ultra.
 
--- Ao revés, o voto ao PSOE e a abstención é maior onde maior é o peso das persoas con estudos primarios e menor o das persoas con estudos universitarios. Esta asociación, que afecta obviamente ao conxunto da esquerda, votante ou non, non se reproduce no caso de Adelante Andalucía, que ten un voto transversal en canto a titulación. No PSOE tamén existe unha evidencia de relación entre maior e idade e mellor resultado, mentres que acontece ao contrario coa abstención, máis alta nos concellos con menor idade media.
+-- Ao revés, o voto ao PSOE e a abstención é maior onde maior é o peso das persoas con estudos primarios e menor o das persoas con estudos universitarios. Esta asociación, que afecta ao conxunto da esquerda andaluza, votara ou se abstivera, non se reproduce no caso de Adelante Andalucía, que ten un voto transversal en canto a formación. No PSOE tamén existe unha evidencia de relación entre maior e idade e mellor resultado, mentres que acontece ao contrario coa abstención, máis alta nos concellos con menor idade media. Iso evidenciaría a incapacidade de Adelante Andalucía para ampliar base electoral entre o electorado progresista.
 
--- O PSOE obtén mellores resultados en áreas con maior proporción de vivendas principais en propiedade, mentres que Ciudadanos salienta naqueloutras cun maior peso de vivendas en réxime de hipoteca.
+-- O PSOE obtén mellores resultados en áreas con maior proporción de vivendas principais en propiedade, mentres que Ciudadanos salienta naqueloutras cun maior peso de vivendas en réxime de hipoteca. Coñecida a evolución e situación do mercado da vivenda é directo reparar en que o partido laranxa nutriuse daquel sector das xeracións máis novas que, con dificultades ou sen elas, teñen a capacidade adquisitiva ou as expectativas suficientes para non ter que recorrer ao aluguer.
 
 - En canto ás variación no voto a respecto de 2015:
 
--- Se ben o voto ás tres forzasda dereitas se concentra en concellos con maior proporción de persoas con titulación universitaria, o cambio sufrido nestas eleccións supón que as persoas con maior formación académica foxen do PP para recalar en Vox.
+-- Se ben o nivel de voto ás tres forzas da dereita é maior en concellos con maior proporción de persoas con titulación universitaria, os cambios acontecidos nestas eleccións implican que as persoas con maior formación académica fuxiron do PP para recalar en Vox.
 
--- As caídas do PSOE coinciden tamén coas seccións censuais que contan con máis poboación con só estudos primarios (e viceversa, os escasos aumentos obtenos en barrios urbanos con ata presenza de persoas con titulación universitaria).
+-- As caídas do PSOE coinciden tamén coas seccións censuais que contan con máis poboación con só estudos primarios (e viceversa, os escasos aumentos obtenos en barrios urbanos con alta presenza de persoas con titulación universitaria).
 
 -- Os maiores aumentos da abstención danse en áreas con escasa presenza de persoas con estudos terciarios.
 
-Outras relacións igualmente significativas aínda que de menor magnitude se poden extraer destas táboas de correlacións, como por exemplo o crecemento de VOx en zonas con maior presenza de poboación estranxeira e de orixe africana, o voto de castigo que optou por Vox nas zonas máis afectadas pola polémica do Supremo e as hipotecas, a caída do PSOE nas zonas con menor densidade de poboación ou o envellecemento do electorado de Adelante Andalucía.
+Outras relacións igualmente significativas aínda que de menor magnitude se poden extraer da táboa de correlacións anterior, como por exemplo o crecemento de Vox en zonas con maior presenza de poboación estranxeira e de orixe africana, o voto de castigo que optou por Vox nas zonas máis afectadas pola polémica do Supremo e as hipotecas, a caída do PSOE nas zonas con menor densidade de poboación ou o envellecemento do electorado de Adelante Andalucía.
 
 Máis correlación entre variables sociodemográficas, o voto e o cambio de voto con información a nivel municipal poden consultase no [especial de eldiario.es](https://www.eldiario.es/andalucia/demografia-grupo-social-elecciones-andaluzas_0_838866277.html).
