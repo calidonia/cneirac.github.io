@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparando allos e bugallos
+title: "Comparando allos e bugallos"
 ---
 
 **Comparar, un vicio ou unha virtude?**
