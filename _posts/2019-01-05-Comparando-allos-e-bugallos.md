@@ -3,9 +3,7 @@ layout: post
 title: "Comparando allos e bugallos"
 ---
 
-**Comparar, un vicio ou unha virtude?**
-
-Hai a quen non lle gustas as comparacións. Un pode sair malparado se se coloca ao lado de quen está mellor, ou tamén pode sentir un desexo irrefrenable de comprar un tractor máis grande que o do viciño aínda que teña unha leira máis pequena. En cambio, tamén hai quen copia boas prácticas, casos de éxito e aprende do que paga a pena imitar, aínda que ás veces tente aplicalo a realidades ben distintas. Comparar pode ser, por tanto, bo ou malo, depende.
+Hai quen non gosta das comparacións. Un pode sair malparado se se coloca do lado de quen é ou está mellor, ou tamén pode sentir un desexo irrefrenable de comprar un tractor máis grande que o do viciño aínda que teña unha leira máis pequena. Porén, tamén hai quen copia boas prácticas, casos de éxito e aprende do que paga a pena imitar, aínda que ás veces tente aplicalo a realidades ben distintas. Comparar pode ser, por tanto, bo ou malo, depende.
 
 O que é innegable é que comparar supón ter máis información, e ter máis datos sempre é bo se o que se pretende é coñecer un fenómeno, analizalo razoadamente e propor accións e medidas que incidan nel, o transformen e o melloren. Mais para iso é preciso utilizar aqueles elementos comparativos axeitados.
 
