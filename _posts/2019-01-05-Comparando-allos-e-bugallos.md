@@ -30,7 +30,7 @@ Para comparármonos ao xeito con outras cidades precisamos un bo cesto de variab
 - Entidades financeiras por habitante.
 - Índice industrial, índices comerciais por xunto e polo miúdo, índice de restauración, índice turístico, índice de actividade económica.
 
-Unha redución de toda esta información mediante ACP produce tres factores de información relevantes:
+Unha redución de toda esta información mediante [ACP] (https://gl.wikipedia.org/wiki/An%C3%A1lise_de_compo%C3%B1entes_principais) produce tres factores de información relevantes:
 
 - Histórico-institucional: Universidade pública, capitalidade e Patrimonio da Humanidade.
 - Renda e riqueza: Concentración da riqueza e desigualdade.
