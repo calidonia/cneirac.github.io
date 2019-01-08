@@ -9,7 +9,7 @@ O que é innegable é que comparar supón ter máis información, e ter máis da
 
 Cando falamos de Santiago de Compostela desde a perspectiva dun goberno municipal, e ogallá tamén desde a perspectiva de quen ten ou debería ter a responsabilidade de ser oposición no Pleno, que é entón o que interesa? Comparármonos cos concellos da volta ou co resto de cidades? E neste caso, miramos só cara ás cidades galegas, que aínda que próximas poden ser e son moi diferentes entre si, ou cara outras cidades do resto do Estado máis semellantes en termos demograficos, sociais e económicos? A todas estas preguntas tento aquí dar unha resposta.
 
-Para comparármonos ao xeito con outras cidades precisamos un bo cesto de variables que describan con amplitude a pluralidade de dimensións dun fenómemo tan complexo como unha cidade, e precisamos toda esa información para o maior número de cidades posibles. Para este exercicio escollín as seguintes variables con datos para varios miles de municipios españois, procedentes fundamentalmente do desaparecido Anuario Económico de La Caixa e completadas con outras fontes menores e con algunhas variables codificadas ad hoc para a ocasión:
+Para comparármonos ao xeito con outras cidades precisamos un bo cesto de variables que describan con amplitude a pluralidade de dimensións dun fenómemo tan complexo como unha cidade, e precisamos toda esa información para o maior número de cidades posibles. Para este exercicio escollín as seguintes variables con **datos para varios miles de municipios españois**, procedentes fundamentalmente do desaparecido Anuario Económico de La Caixa e completadas con outras fontes menores e con algunhas variables codificadas ad hoc para a ocasión:
 
 - Capitalidade (provincial ou autonómica).
 - Cabeceira ou non de área urbana ou metropolitana.
@@ -36,13 +36,11 @@ Unha redución de toda esta información mediante ACP produce tres factores de i
 - Renda e riqueza: Concentración da riqueza e desigualdade.
 - Turismo.
 
-Elaborando unha medida de distancia (métrica euclidiana) con base nas puntuacións que todas as cidades acadan neste espazo tridimensional, conclúese que as cidades máis semellantes a Santiago de Compostela son: Albacete, Alcalá de Guadaíra, Alcalá de Henares, Almería, Ávila, Badajoz, Burgos, Cáceres, Cádiz, Cartagena, Castelldefels, Castelló de la Plana, A Coruña, Cuenca, Donostia, Eivissa, Elx, Granada, Guadalajara, Huesca, Jaén, León, Lleida, Logroño, Lorca, Mérida, Oviedo, Paterna, Pontevedra, El Puerto de Santa María, Salamanca, San Cristóbal de la Laguna, Santander, Segovia, Tarragona, Telde e Toledo.
+Elaborando unha medida de distancia (métrica euclidiana) con base nas puntuacións que todas as cidades acadan neste espazo tridimensional, conclúese que **as cidades máis semellantes a Santiago de Compostela son: Albacete, Alcalá de Guadaíra, Alcalá de Henares, Almería, Ávila, Badajoz, Burgos, Cáceres, Cádiz, Cartagena, Castelldefels, Castelló de la Plana, A Coruña, Cuenca, Donostia, Eivissa, Elx, Granada, Guadalajara, Huesca, Jaén, León, Lleida, Logroño, Lorca, Mérida, Oviedo, Paterna, Pontevedra, El Puerto de Santa María, Salamanca, San Cristóbal de la Laguna, Santander, Segovia, Tarragona, Telde e Toledo.**
 
 Nesta relación de 37 cidades só aparecen dúas cidades galegas: A Coruña e Pontevedra. Non son quizá as que a xente ten en mente como as máis parecidas á capital galega, pero este conxunto de datos que logramos reunir confírmanos que así é.
 
 Porén, aínda que os datos son os datos e o método científico fale claro, boa parte do mundo ao noso arredor pode ignorar estes refinamentos, ser o suficientemente teimuda como para polos en cuestión, quizá desexan seguir comparándose coa cidade do lado ou se cadra xa teñen elixido un concello ou cidade que lles interesa para avalar os seus argumentos fronte á Administración. For como for, sempre será recomendable complementar o criterio técnico co 'factor' humano, e por iso inclúo sempre nas miñas comparacións as outras catro cidades galegas: Ferrol, Lugo, Ourense e Vigo. Por información que non quede.
-
-Esta é unha escolla xeral. Podería ser máis completa, con máis variables e de máis ámbitos, ou máis específica, para analisar estritamente un fenómeno concreto, por exemplo, o transporte urbano. Pero o que aquí pretendía facer é so unha exposición do método, con independencia da realidade á que se aplique.
 
 Para que nos vale, en fin, compararnos con esas 41 cidades?
 
@@ -53,3 +51,5 @@ Para que nos vale, en fin, compararnos con esas 41 cidades?
 - Para graduar o alcance dos cambios e as transformacións a acomenter durante un ou varios mandatos en función da experiencia comparada.
 - Para falar con propiedade (e con datos) da posición absoluta e relativa de cada cidade en relación ás súas homólogas.
 - Para decatármonos de que unha cousa é o desexo ou a promesa política e outra a realidade dos números. O diñeiro e os recursos humanos e materiais mandan e non custan o mesmo en cada cidade (distintas políticas fiscais, redes de servizos máis extensas, etc).
+
+Esta é unha escolla xeral. Podería ser máis completa, con máis variables e de máis ámbitos, ou máis específica, para analisar estritamente un fenómeno concreto, por exemplo, o transporte urbano. Pero o que aquí pretendía facer é so unha exposición do método, con independencia da realidade á que se aplique.
