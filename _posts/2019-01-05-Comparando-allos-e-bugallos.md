@@ -52,4 +52,8 @@ Para que nos vale, en fin, compararnos con esas 41 cidades?
 - Para falar con propiedade (e con datos) da posición absoluta e relativa de cada cidade en relación ás súas homólogas.
 - Para decatármonos de que unha cousa é o desexo ou a promesa política e outra a realidade dos números. O diñeiro e os recursos humanos e materiais mandan e non custan o mesmo en cada cidade (distintas políticas fiscais, redes de servizos máis extensas, etc).
 
-Esta é unha escolla xeral. Podería ser máis completa, con máis variables e de máis ámbitos, ou máis específica, para analisar estritamente un fenómeno concreto, por exemplo, o transporte urbano. Pero o que aquí pretendía facer é so unha exposición do método, con independencia da realidade á que se aplique.
+Esta é unha escolla xeral. Podería ser máis completa, con máis variables e de máis ámbitos. Por exemplo, podería ter incluído variables orzamentarias para evitar comparar dúas cidades semellanes con finanzas municipais dispares. Tamén podería ter feito unha escolma máis específica, por exemplo para analisar o fenómeno concreto do transporte urbano, onde habería que dar máis peso a variables físicas e de mobilidade. Pero o que aquí pretendía facer é so unha exposición do método, con independencia da realidade á que se aplique.
+
+Déixoo polo de agora cunha aplicación de exemplo: a situación de Santiago de Compostela no *ranking* da carga da débeda por habitante, nos anos 2011 e 2017, para que nos deamos conta da importancia da herdanza recibida e de como a xestión municipal pasada hipotecou durante moito tempo a xestión presente e futura do Concello. Ao final do mandato do *bipartito de progreso* PSdeG-PSOE+BNG liderado polo alcalde Sánchez Bugallo, eramos a segunda cidade deste grupo de homólogas máis hipotecada. Seis anos despois a capital de Galicia sitúase no medio da táboa e arredor do índice medio que presentan estas cidades.
+
+![_config.yml]({{ site.baseurl }}/images/Capítulos 3+9.png)
