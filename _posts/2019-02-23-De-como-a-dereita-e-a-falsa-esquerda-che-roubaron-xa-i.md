@@ -51,7 +51,7 @@ Outra vía é a instauración e potenciación de **bonificacións fiscais**. No 
 
 O inconveniente da alternativa das bonificacións fronte aos tipos de gravame é que requiren moito máis traballo administrativo para xestionalas, máis burocracia, e que cada veciña ten que solicitalas expresamente.
 
-##Por que o IBI sae barato en Compostela?##
+## Por que o IBI sae barato en Compostela? ##
 
 Xa vimos que en Compostela a recadación efectiva do IBI por inmoble alcanza un valor medio entre o conxunto das cidades galegas. Se aspiramos a pagar o mesmo que o resto podería parecer a primeira vista que o impostos está ben así. Non habería necesidade de baixalo como propón Hernández ou como xa fixeron o PP e o PSOE en comandita ao comezo deste mandato.
 
