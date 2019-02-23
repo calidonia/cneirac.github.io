@@ -5,7 +5,7 @@ title: "De como a dereita e a falsa esquerda che roubaron xa (I)"
 
 ![_config.yml]({{ site.baseurl }}/images/ibi-0.jpg)
 
-##O problema é a desigualdade na riqueza##
+## O problema é a desigualdade na riqueza ##
 
 Hai relativamente pouco, nesta lexislatura, a Xunta de Alberto Núñez **Feijóo rebaixou o Imposto de Patrimonio** para todas aquelas persoas cun patrimonio superior a 700.000 €. Isto supuxo que os ricos galegos aforraran uns 18 millóns de euros. Esta é a cantidade que a Xunta de Galicia deixa de ingresas e que non pode destinar a servizos públicos autonómicos como a sanidade, o ensino ou os servizos sociais. Máis de 2 millóns de euros corresponden a patrimonios localizados en Santiago de Compostela.
 
@@ -23,7 +23,7 @@ O principal problema das vivendas en Santiago de Compostela non é a súa carenc
 
 Para afrontar estes problemas é necesario fomentar políticas serias de rehabilitación, restauración e reestruturación, así como de dotación de servizos públicos e privados, pero tamén que os poderes públicos teñan capacidade de regulación do mercado da vivenda, algo que non está hoxe ao alcance dos Concellos, pois son o Estado e a Xunta quen lexislan. Non é que sexa necesario limitar o umento dos prezos do aluguer, é que se precisan ademais outros cambios normativos complementarios: poder gravar a vivenda baleira para forzala a poñela no mercado a prezos asequibles que logren que se aluguen e habiten, e prohibir a actuación de empresas no mercado da vivenda residencial. Todos eses que andan prometendo rebaixas de impostos non che falarán destas cousas.
 
-##Como o IBI grava a propiedade inmobiliaria urbana en Compostela##
+## Como o IBI grava a propiedade inmobiliaria urbana en Compostela ##
 
 Segundo o último Censo de poboación e vivendas de 2011 elaborado polo Instituto Nacional de Estadística na nosa cidade existen **9.000 vivendas que non son nin principais nin secundarias**. A maioría destas vivendas pertencen a multipropietarios. O estudo de vivendas baleiras encargado por Compostela Aberta durante este mandato estimou que **só 2.000 desas 9.000 vivendas estarían permanentemente deshabitadas**, por non ter contrato de auga ou non rexistrarse nelas consumos significativos.
 
@@ -63,7 +63,7 @@ Por iso, a realidade é que **Compostela é xunto con Pontevedra a cidade galega
 
 ![_config.yml]({{ site.baseurl }}/images/ibi-5.png)
 
-##Pero Compostela é unha cidade extensa, horizontal e patrimonial que custa máis coidar##
+## Pero Compostela é unha cidade extensa, horizontal e patrimonial que custa máis coidar ##
 
 O custo de creación e de mantemento de case calquera ben ou servizo público depende sobre todo do seu alcance territorial, da súa extensión ou cobertura. En Compostela o custo do público é maior que na maioría de cidades galegas porque temos un concello cunha ampla extensión rural, porque **temos a segunda maior superficie urbana de Galicia**, tras Vigo e moi por diante de cidades como A Coruña que ten máis do dobre de poboación ca nós, e porque **somos unha cidade horizontal cunha densidade de poboación no medio urbano relativamente baixa**, debido á existencia de moita zona verde, solo sen edificar e construcións de poucas alturas. E como e ben sabido **somos unha cidade Patrimonio da Humanidade** que malia ás reiteradas peticións da asociación das cidades españolas con tal distinción  nunca recibiu financiamento adicional estable para o seu coidado e protección. Por iso, dedicar recursos do orzamento municipal a bens e servizos básicos que cheguen a todo o territorio municipal, tanto na zona urbana como na zona rural, precisa de máis recursos en termos por habitante e por superficie que no resto de cidades.
 
