@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-Some information about you!
+Economista e científico de datos. Asesoro ao grupo de goberno de Compostela Aberta no Concello de Santiago de Compostela.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Autodidacta crónico e intruso profesional confeso. Fun bolseiro, asalariado, autónomo e cooperativista, pero nunca fundei unha empresa. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[calidonia.hibernia@gmail.com](mailto:calidonia.hibernia@gmail.com)
