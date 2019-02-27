@@ -32,7 +32,7 @@ A cantidade que hai pagar no imposto, a cota tributaria, calcúlase a partir do 
 - Unha porcentaxe de revalorización estimada en función do tempo transcorrido desde a última transmisión (isto determina a base impoñible do imposto).
 - O tipo de gravame (que aplicado á base impoñible determina a cota tributaria).
 
-[1]
+![_config.yml]({{ site.baseurl }}/images/plusv-1.jpg)
 
 O imposto permite fizar porcentaxes distintas de revalorización e de tipo de gravame para quinquenios diferentes, posibilitando na teoría axustar a intensidade do impostos á evolución real do mercado inmobiliario, e habilitando aos gobernos municipais para, se queren, gravar de forma máis intensa aquelas transmisións de inmobles que se realizan en breves períodos de tempo e que, intuitivamente, podemos considerar que responden máis a fenómenos especulativos que ao feito de mudar de residencia.
 
@@ -42,7 +42,7 @@ Na práctica todas as cidades utilizan esta posibilidade para a determinación d
 
 Un problema que ten este imposto é que no conxunto das sete cidades galegas estima un valor para a revalorización dos inmobles moi inferior ao que se produce no mercado. Así, nos últimos 20 anos, desde 1996 a 2016, o valor catastral dun inmoble medio nas urbes galegas pasou de 21.560 € a 48.080 €, o que implica unha taxa de crecemento anual acumulativa do 4,1% anual. Fronte a este incremento de valor os impostos de plusvalías das sete cidades estiman unha revalorización de entre o 2,3% e o 2,8%, un 2,5% por termo medio, o que significa que unha revalorización do 1,6% queda fóra da base impoñible do imposto.
 
-[2]
+![_config.yml]({{ site.baseurl }}/images/plusv-2.jpg)
 
 En Compostela os datos de Catastro e da Ordenanza fiscal deste impostos dinnos que nese período de 1996 a 2016 o valor catastral medio dun inmoble creceu un 5,3%, mentres que o imposto estima unha revalorización do 2,5%, coincidente coa medias das cidades galegas. Isto significa que menos da metade do incremento de valor que por termo medio experimentaron os predios composteláns pasa a integrar a base impoñible do imposto.
 
