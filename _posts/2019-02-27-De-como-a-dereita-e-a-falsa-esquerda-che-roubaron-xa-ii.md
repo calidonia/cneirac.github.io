@@ -32,7 +32,7 @@ A cantidade que hai pagar no imposto, a cota tributaria, calcúlase a partir do 
 - Unha porcentaxe de revalorización estimada en función do tempo transcorrido desde a última transmisión (isto determina a base impoñible do imposto).
 - O tipo de gravame (que aplicado á base impoñible determina a cota tributaria).
 
-![_config.yml]({{ site.baseurl }}/images/plusv-1.jpg)
+![_config.yml]({{ site.baseurl }}/images/plusv-1.png)
 
 O imposto permite fizar porcentaxes distintas de revalorización e de tipo de gravame para quinquenios diferentes, posibilitando na teoría axustar a intensidade do impostos á evolución real do mercado inmobiliario, e habilitando aos gobernos municipais para, se queren, gravar de forma máis intensa aquelas transmisións de inmobles que se realizan en breves períodos de tempo e que, intuitivamente, podemos considerar que responden máis a fenómenos especulativos que ao feito de mudar de residencia.
 
