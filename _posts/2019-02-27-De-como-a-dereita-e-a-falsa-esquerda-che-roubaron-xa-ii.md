@@ -3,9 +3,9 @@ layout: post
 title: "De como a dereita e a falsa esquerda che roubaron xa (II)"
 ---
 
-No artigo anterior vimos como **a coalición inmobiliaria PP-PSOE fixo perder ao Concello 25 millóns de euros desde 2014**, 5 millóns de euros de recorte na recadación do IBI de cada ano cada ano que poderían ter sido gastados no mantemento e mellora da cidade.
+No artigo anterior vimos como **a coalición inmobiliaria PP-PSOE fixo perder ao Concello 25 millóns de euros** desde 2014, 5 millóns de euros menos cada ano na recadación do IBI que poderían ter sido gastados no mantemento e mellora dos servizos e bens públicos que serven para que o bipartidismo clásico presuma do ben que están os teus petos a conta do mal que está a cidade. O indivualismo privado contra o ben público do común.
 
-A maior rebaixa fiscal da Historia de Santiago que o desesperado candidato Hernández anda a prometer simplemente xa se produciu. E as súas consecuencias están sendo nefastas para a cidade, para a veciñanza e para os visitantes que a menos de dous anos do próximo Xacobeo chegarán a Compostela.
+A maior rebaixa fiscal da Historia de Santiago que o desesperado candidato Hernández anda a prometer simplemente xa se produciu. E as súas consecuencias están sendo nefastas no día da día veciñanza e comprometen seriamente a visión da cidade que terán os visitantes que a menos de dous anos do próximo Xacobeo chegan a Compostela.
 
 Nestoutro artigo vamos afondar no xeito en como os partidos que historicamente gobernaron o Concello de Santiago derivaron a carga fiscal municipal cara ás persoas e fogares con menos recursos, logrando a xente con máis renda e riqueza fixeran durante décadas un menor esforzo fiscal que os máis humildes.
 
