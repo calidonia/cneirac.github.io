@@ -23,7 +23,7 @@ Terceiro, é un imposto de moi longo prazo. O habitual é que se devindique cada
 
 Cuarto, aquelas transmisións que se producen por causa de morte teñen unha bonificación moi alta, do 95%, o que significa que receben a plusvalía de forma case íntegra. Hai quen protesta por gravar este 5% da plusvalía pero o certo é que esa propiedade ten máis valor que antes e con probabilidade seguirá a revalorizarse ata que nalgún intre se realice unha transmisión inter vivos que materialice o seu novo valor e o imposto correspondente.
 
-Quinto, ademais destes efectos recadatorios e de xustiza social, este imposto é un instrumento que grava a transmision especulativa de predios. Se alguén se dedica á compravenda de terreos para especular co seu valor no curto e medio prazo, incrementando artificialmente o seu prezo no mercado e por extensión o do resto de propiedades inmobiliarias circundantes e da cidade, o imposto grava cada posible transmisión desincentivando xogar #coas cousas de vivir#.
+Quinto, ademais destes efectos recadatorios e de xustiza social, este imposto é un instrumento que grava a transmision especulativa de predios. Se alguén se dedica á compravenda de terreos para especular co seu valor no curto e medio prazo, incrementando artificialmente o seu prezo no mercado e por extensión o do resto de propiedades inmobiliarias circundantes e da cidade, o imposto grava cada posible transmisión desincentivando xogar *coas cousas de vivir*. De feito, a Lei que regula o imposto impide gravar as trasnmisión fóra dun período de 20 anos. Cando se transmite un ben pasados máis de 20 anos só os último 20 se teñen en conta para determinar a contía do imposto.
 
 Por tanto, o imposto da plusvalía é un imposto que grava a riqueza, e como sabemos a riqueza se atopa máis desigualmente distribuída que calquera renda. Ten xa que logo unha forte compoñente redistributiva, esa palabra que tanto asusta polo xeral a quen máis ten porque lle obriga a contribuír á sociedade, quéirao ou non.
 
@@ -46,14 +46,22 @@ Un problema que ten este imposto é que no conxunto das sete cidades galegas est
 
 En Compostela os datos de Catastro e da Ordenanza fiscal deste impostos dinnos que nese período de 1996 a 2016 o valor catastral medio dun inmoble creceu un 5,3%, mentres que o imposto estima unha revalorización do 2,5%, coincidente coa medias das cidades galegas. Isto significa que menos da metade do incremento de valor que por termo medio experimentaron os predios composteláns pasa a integrar a base impoñible do imposto.
 
+A Lei permite que a porcentaxe de revalorización aplicada sexa de ata 3,7% nos 5 anos máis recentes, decendo ata o 3,0% nos 5 máis lonxíncuos.
+
 ## Cota tributaria
 
 As cidades galegas aplican por termo medio un tipo de gravame que vai do 24,59% ao 24,07%, practicamente o mesmo valor con independencia de que o tempo transcorrido desde a última manifestación de valor. Vese por tanto que o factor de penalización das transmisións a curto é moi cativo e que non está aproveitado convenientemente.
 
 En Compostela aplícase de feito o mesmo tipo do 22% con independencia do momento da última transmisión. Este gravame está situada sensiblemente por baixo da medida das cidades galegas e supera só ás da Coruña e Pontevedra.
 
+A Lei permite aplicar tipos de ata o 30%, como no caso galego fai Vigo.
+
 ## Minusvalías?
 
-Ten habido nos últimos anos unha polémica polo existencia de minusvalías, como consecuencia da recesión económica e da burbulla inmobiliaria que elevou os terreos de natureza urbana precisamente como efecto dos movementos especulativos a pequena e a gran escala. O alto Tribunal ten sentenciado que neses casos non debera pagarse o imposto pero o Estado aínda non regulamentou como deben proceder os concellos nesas situacións. Mesmo así, eses terreos con minusvalias puntuais no longo prazo terán plusvalías. Se non as xeraron nos anos posteriores á recesión han xeralas máis adiante.
+Ten habido nos últimos anos unha polémica polo existencia de minusvalías, como consecuencia da recesión económica e da burbulla inmobiliaria que elevou os terreos de natureza urbana precisamente como efecto dos movementos especulativos a pequena e a gran escala.
 
+O alto Tribunal ten sentenciado que neses casos non debera pagarse o imposto pero o Estado aínda non regulamentou como deben proceder os concellos nesas situacións.
 
+Con todo, sería técnicamente posible determinar unha porcentaxe de revalorización negativa para un ou varios períodos, obviando que o imposto sempre fala de *incrementos de valor*, se realmente houbo unha baixa xeral dos prezos de mercado, para dese xeito estimar unha base impoñible negativa e, se non hai contías positivas que as compensen, cotas tributarias negativas (sería o Concello o que devolvería cartos).
+
+Pero non esquezamos que a baixa de prezos provocada pola última burbulla e posterior recesión refirese a un período retrospectivo de 10 anos, e que se alguén tivo minusvalías dentro dese período é porque mercou exclusivamente para especular, non para residir na vivenda ou para construír no solo, con cáseque toda probabilidade.
