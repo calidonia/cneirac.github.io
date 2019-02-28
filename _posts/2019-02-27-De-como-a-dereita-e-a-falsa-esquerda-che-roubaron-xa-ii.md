@@ -61,6 +61,8 @@ En Compostela aplícase un mesmo tipo do 22% con independencia do tempo. Este gr
 
 A Lei permite aplicar tipos de ata o 30%, como no caso galego fai Vigo.
 
+Por tanto, á vista de todos os datos, **o imposto de plusvalías de Santiago é beneficioso para os multipropietarios e especialmente para os que especulan**.
+
 ## Minusvalías?
 
 Ten habido nos últimos anos unha polémica pola existencia de minusvalías, como consecuencia da recesión económica e da burbulla inmobiliaria que elevou os terreos de natureza urbana precisamente como efecto dos movementos especulativos a pequena e a gran escala.
