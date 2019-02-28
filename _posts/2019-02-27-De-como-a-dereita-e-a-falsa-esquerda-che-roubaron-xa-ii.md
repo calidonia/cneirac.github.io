@@ -65,6 +65,8 @@ A Lei permite aplicar tipos de ata o 30%, como no caso galego fai Vigo.
 
 Á vista de todos os datos, **o imposto de plusvalías de Santiago é beneficioso para os multipropietarios e especialmente para os que especulan**. Quizá **por iso Agustín Hernández propón rebaixar o tipo de gravame do 22% ao 20%**, tal e como figura na folla que andan buzoneando pola cidade adiante. Nese mesmo panfleto afirman que instaurarán unha bonificcción no imposto do 95% para casos de especial interese municipal, quizá pretendendo que a maioría do Pleno municipal poida branquexar os beneficios especulativos de algunha operación urbanística en particular.
 
+![_config.yml]({{ site.baseurl }}/images/plusv-3.jpg)
+
 ## Minusvalías?
 
 Ten habido nos últimos anos unha polémica pola existencia de minusvalías, como consecuencia da recesión económica e da burbulla inmobiliaria que elevou os terreos de natureza urbana precisamente como efecto dos movementos especulativos a pequena e a gran escala.
