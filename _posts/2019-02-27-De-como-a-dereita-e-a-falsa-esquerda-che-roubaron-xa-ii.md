@@ -61,7 +61,9 @@ En Compostela aplícase un mesmo tipo do 22% con independencia do tempo. Este gr
 
 A Lei permite aplicar tipos de ata o 30%, como no caso galego fai Vigo.
 
-Por tanto, á vista de todos os datos, **o imposto de plusvalías de Santiago é beneficioso para os multipropietarios e especialmente para os que especulan**.
+## A proposta do PP
+
+Á vista de todos os datos, **o imposto de plusvalías de Santiago é beneficioso para os multipropietarios e especialmente para os que especulan**. Quizá **por iso Agustín Hernández propón rebaixar o tipo de gravame do 22% ao 20%**, tal e como figura na folla que andan buzoneando pola cidade adiante. Nese mesmo panfleto afirman que instaurarán unha bonificcción no imposto do 95% para casos de especial interese municipal, quizá pretendendo que a maioría do Pleno municipal poida branquexar os beneficios especulativos de algunha operación urbanística en particular.
 
 ## Minusvalías?
 
