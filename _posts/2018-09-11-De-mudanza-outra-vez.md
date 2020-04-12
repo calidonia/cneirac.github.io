@@ -3,7 +3,7 @@ layout: post
 title: De mudanza (outra vez)
 ---
 
-Despois de varios anos sabáticos comezarei a pór orde nos meus documentos e quizá vaia vertendo aquí de vagar aqueles contidos que ache máis interesantes.
+Algún día quizá vaia vertendo aquí de vagar aqueles contidos que ache máis interesantes.
 
 ![_config.yml]({{ site.baseurl }}/images/ABC.png)
 
