@@ -1,10 +1,10 @@
 ---
 layout: post
-title: De mudanza (outra vez)
+title: Hola
 ---
 
-Algún día quizá vaia vertendo aquí de vagar aqueles contidos que ache máis interesantes.
+Hola. Este es un saludo para todas las personas que me acompañan o están interesadas en el curso [FUNDAMENTOS SOBRE LA IGUALDAD DE TRATO Y LA NO DISCRIMINACIÓN] (https://buscadorcursos.inap.es/fichacurso/25421) del INAP.
 
 ![_config.yml]({{ site.baseurl }}/images/ABC.png)
 
-Boa parte das antigas publicacións precisan unha actualización, quer polos datos quer polas miñas ideas, porque eu tamén cambio de parecer. Se precisas consultar algunha cousa vella proba a atopala na máquina do tempo de [Archive.org](https://archive.org/web/).
+En este sitio iré publicando todos aquellos contenidos relacionados con el curso que deban integrar el Diario, así como todos aquellos otros que vaya recopilando y encuentre interesantes. [Archive.org](https://buscadorcursos.inap.es/fichacurso/25421).
