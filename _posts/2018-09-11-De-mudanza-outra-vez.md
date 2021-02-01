@@ -7,4 +7,4 @@ Hola. Este es un saludo para todas las personas que me acompañan o están inter
 
 ![_config.yml]({{ site.baseurl }}/images/ABC.png)
 
-En este sitio iré publicando todos aquellos contenidos relacionados con el curso que deban integrar el Diario, así como todos aquellos otros que vaya recopilando y encuentre interesantes. [Archive.org](https://buscadorcursos.inap.es/fichacurso/25421).
+En este sitio iré publicando todos aquellos contenidos relacionados con el curso que deban integrar el Diario, así como todos aquellos otros que vaya recopilando y encuentre interesantes.
