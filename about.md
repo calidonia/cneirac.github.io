@@ -8,7 +8,7 @@ Economista e científico de datos.
 
 ### Máis información
 
-Autodidacta crónico e intruso profesional confeso. Fun estudante, bolseiro, desempregado, empregado, autónomo, cooperativista e agora funcionario. Mais nunca fundei unha empresa.
+Autodidacta crónico e intruso profesional confeso. Contra o corporativismo e a titulite. Fun estudante, bolseiro, desempregado, empregado, autónomo, cooperativista e agora funcionario. Mais nunca fundei unha empresa.
 
 ### Contact me
 
