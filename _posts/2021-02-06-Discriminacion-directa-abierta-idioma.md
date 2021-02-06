@@ -7,7 +7,7 @@ Para estrenarme en los retos semanales no he podido evitar que me venga a la mem
 
 Muchos ciudadanos simplemente no entienden este tipo de discriminación: directa y abierta, basada en estereotipos sociales sobre la inteligencia, conducta y poder adquisitivo de la gente que habla una lengua diferente a la privilegiada, que era (y es) el castellano (que no español, pues españolas son todas las que se hablan en España). Ni siquiera empatizan con quienes la sufren en el día a día.
 
-Claro que la sociedad ha cambiado mucho, para bien, pero también ha habido retrocesos sociales en momentos determinados en que se ha impuesto una cierta ideología de Estado que ha victimizado a los privilegiados. También ha habido a mi juicio, retrocesos en el ámbito jurídico, bien asentados en el doble rasero que consagra la Constitución a la hora de establecer derechos y deberes lingüísticos.
+Claro que la sociedad ha cambiado mucho, para bien, pero también ha habido retrocesos sociales en momentos determinados en que se ha impuesto una cierta ideología de Estado que ha victimizado a los privilegiados y pretende eliminar cualquier medida de discriminación positiva en favor de las lenguas cooficiales. También ha habido a mi juicio, retrocesos en el ámbito jurídico, bien asentados en el doble rasero que consagra la Constitución a la hora de establecer derechos y deberes lingüísticos.
 
 Hoy en día, tras casi 50 años de democracia en España, siguen existiendo discriminaciones por razón de idioma y, en algunos casos, las propias instituciones incumplen la Carta Europea de Lenguas Minorizadas.
 
