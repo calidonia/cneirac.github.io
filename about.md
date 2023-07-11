@@ -4,12 +4,6 @@ title: Acerca de
 permalink: /about/
 ---
 
-Economista e científico de datos.
-
-### Máis información
-
-Autodidacta crónico e intruso profesional confeso. Contra o corporativismo e a titulite. Fun estudante, bolseiro, desempregado, empregado, autónomo, cooperativista e agora funcionario. Mais nunca fundei unha empresa.
-
-### Contact me
-
-[cneirac@gmail.com](mailto:cneirac@gmail.com)
+Case esvae todo.
+Nada, o que parece.
+Salfiro letras.
