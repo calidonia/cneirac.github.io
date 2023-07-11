@@ -4,6 +4,6 @@ title: Acerca de
 permalink: /about/
 ---
 
-Case esvae todo.
-Nada, o que parece.
-Salfiro letras.
+Case esvae todo.<br>
+Nada, o que parece.<br>
+Salfiro letras.<br>
